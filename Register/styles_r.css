@@ -1,0 +1,23 @@
+.tittle{
+    margin-top: 140px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.form-group {
+    margin-top: 50px;
+
+}
+.password{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 15px;
+}
+
+.password input{
+    width: 180px;
+}
+img{
+    display:block;
+    margin:20px auto;
+}
